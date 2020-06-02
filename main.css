@@ -1,3 +1,25 @@
-body {
-    background-color: blue;
-}
+  body {
+      background-color: #cfeff0;
+  }
+
+  .container {
+      display: flex;
+  }
+
+  .store-title {
+      text-align: center;
+  }
+
+  #store {
+      /* border: 2px solid rgb(11, 2, 48); */
+      text-align: center;
+      margin: 0 15px;
+  }
+
+  #store button {
+      margin: 10px;
+  }
+
+  .book-image {
+      height: 250px;
+  }
